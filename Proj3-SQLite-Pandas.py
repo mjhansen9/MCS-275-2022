@@ -1,4 +1,4 @@
-#The aim of this project was to create a SQLite database but a csv file containing data about Chicago's bus network. 
+#The aim of this project was to create a SQL database from a csv file containing data about Chicago's bus network. 
 #I then used SQLite to  extract information about, and perform a variety of transformations on the data.
 
 #Madeline Hansen
