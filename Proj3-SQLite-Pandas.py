@@ -1,7 +1,6 @@
 #The aim of this project was to create a SQL database from a csv file containing data about Chicago's bus network. 
 #I then used SQLite to  extract information about, and perform a variety of transformations on the data.
 
-#Madeline Hansen
 #UIN: 667606386
 #email: mhanse21@uic.edu
 #Project 3
