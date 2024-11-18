@@ -7,7 +7,7 @@
 #Project 1
 
 #I hereby attest that I have adhered to the rules for quizzes and projects as well as UIC’s
-#Academic Integrity standards. Signed: Madeline Hansen
+#Academic Integrity standards.
 
 import random
 import matplotlib.pyplot as plt
