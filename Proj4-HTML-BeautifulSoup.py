@@ -1,7 +1,7 @@
 #The aim of this project was to create a website that when asked would display specific data scraped from the UIC faculty staff website. The site's user 
 #is able to search by the faculty member's email, or by the hours they hold class. It uses HTML for website building and BeautifulSoup for web scrapping.
 
-#Madeline Hansen
+#M Hansen
 #UIN: 667606386
 #email: mhanse21@uic.edu
 #Project 4
