@@ -1,7 +1,7 @@
 #the aim of this project was to create a puzzle solver that creates a virtual puzzle and then cycles through all of the pieces (which are objects)
 # to find its matches, until the puzzle is solved.
 
-#Madeline Hansen
+#M Hansen
 #UIN: 667606386
 #email: mhanse21@uic.edu
 #Project 1
