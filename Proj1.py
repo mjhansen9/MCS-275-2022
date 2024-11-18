@@ -1,5 +1,5 @@
 #the aim of this project is the calculate the average time a simulated commute would take.
-#Madeline Hansen
+#M Hansen
 #UIN: 667606386
 #email: mhanse21@uic.edu
 #Project 1
